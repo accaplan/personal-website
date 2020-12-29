@@ -3,23 +3,23 @@
 ## Page details ##
 ##################
 layout: layouts/home.njk
-title: Gemma Copeland
-strapline: Digital design
+title: Asher Caplan
+strapline: Productive Practice
 permalink: /
 metaDescription:
 
 ##################
 #### Contact #####
 ##################
-name: Gemma Copeland
-email: mail@gemmacope.land
+name: Asher Caplan
+email: ashercaplan.studio@gmail.com
 sameAs:
   - text: Arena
-    url: https://www.are.na/gemma-copeland
-  - text: Twitter
-    url: https://twitter.com/gemcopeland
+    url: https://www.are.na/ash-caplan
+  - text: Instagram
+    url: https://instagram.com/thatsweetash
   - text: GitHub
-    url: https://github.com/GemCopeland
+    url: https://github.com/accaplan
 
 ##################
 #### Activity ####
@@ -29,57 +29,41 @@ sameAs:
 ##################
 ###### Work ######
 ##################
-colleagues:
-  - name: Agorama Server Co-op
-    url: https://home.agorama.org.uk/
-  - name: Alex Piacientini
-    url: https://www.alexpiacentini.com/
-  - name: Brave New Alps
-    url: https://www.brave-new-alps.com/
-  - name: Carvalho Bernau
-    url: http://carvalho-bernau.com/
-  - name: Chris Lacy
-    url: http://christopherlacy.co.uk/
-  - name: Evening Class
-    url: https://evening-class.org/
-  - name: Feminist Open Source Group
-    url: https://feministopensource.group/
-  - name: Hannah Blows
-    url: http://thisblows.uk/
-  - name: How Melnyczuk
-    url: https://www.melnycz.uk/
-  - name: MayDay Rooms
-    url: https://maydayrooms.org/
-  - name: Piper Haywood
-    url: https://piperhaywood.com
-  - name: Rectangle
-    url: https://rectangle.design/
-  - name: Robbie Blundell
-    url: https://r-b.site/
-  - name: Sam Baldwin
-    url: https://sambaldwin.info/
-  - name: STRIKE!
-    url: http://www.strike.coop/
+media:
+  - name: Reading
+    url: https://www.patternlanguage.com/
+  - name: Listening
+    url: https://open.spotify.com/playlist/4wxcABaFYUX31gEVY8uYSw?si=3GxcY6xrS2Gojow4UOsHNg/
+  - name: Cooking
+    url: https://johncage.org/blog/cagerecipes.html
+  - name: Watching
+    url: https://www.imdb.com/name/nm0000953/
+  - name: Learning
+    url: https://www.freecodecamp.org/news/the-next-js-handbook/
+  - name: Moving
+    url: https://www.youtube.com/watch?v=X2pekL-tkBM
+  - name: Making
+    url: http://www.daikudojo.org/
 
 workList:
-  - text: Claim the Future
-    url: http://claimthefuture.today/
-  - text: Progressive International
-    url: https://progressive.international/
-  - text: Vent Your Rent
-    url: https://ventyour.rent/
-  - text: La Foresta local network
-    url: https://www.are.na/gemma-copeland/project-la-foresta-local-network
-  - text: Odunpazari Modern Museum
-    url: https://omm.art/en/
-  - text: ATID
-    url: https://atid.uk/
-  - text: Magnum Creative
-    url: https://creative.magnumphotos.com/
-  - text: Studio Kunze
-    url: https://www.studiokunze.com/
-  - text: Ethical Culture Fieldston School
-    url: https://ecfs.org
+  - text: Infinite Places
+    url: http://www.infiniteplaces.org/
+  - text: Idle Hours Co.
+    url: https://www.idlehours.co/
+  - text: Office Romance
+    url: https://www.romanceoffice.com/
+  - text: Enough Structures
+    url: https://www.enough-structures.net
+  - text: Superpotent
+    url: https://www.superpotent.world
+  - text: Dillydally Outdoor Enthusiasts Club
+    url: https://www.instagram.com/dillydallyrecreation
+  - text: Social Making TV
+    url: https://www.youtube.com/channel/UC_l2oumbFugxIo13mNQOfSQ
+  - text: The Architect's Directory
+    url: https://www.are.na/infinite-places/architects-directory
+  - text: Computing Co-Op
+    url: https://www.are.na/office-romance/computing-co-op
 
 ##################
 #### Credits #####
@@ -87,15 +71,18 @@ workList:
 credits: |
   This is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by Piper Haywood. If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). It is set in [Standard Book](https://github.com/brycewilner/Standard) by Bryce Wilner. Your data isn’t collected when using this site.
 
-  [Subscribe to RSS](https://gemmacope.land/feed.xml)
+  [Subscribe to RSS](https://ashercaplan.com/feed.xml)
 
-  Last updated: 08.2020
+  Last updated: 12.2020
 ---
 
-Interdependent digital designer based in London.
+Designer, craftsmen, artist. Living in Zurich, CH, but originally from Tucson, AZ.
 
-Member of [Common Knowledge](http://commonknowledge.coop), a worker cooperative that designs digital tools for and with grassroots activists.
+Working across a variety of disciplines and interests (see below). Trained as an architect and urban designer he is currently learning to code and work with regenerative agriculture.
 
-Part of the [Designers + Cultural Workers](https://twitter.com/UVW_DCW) branch of United Voices of the World.
+Interested in developing new models for living and working collaboratively, imagining futures, exploring self-organising building solutions, and understanding how digital technology can support these practices.
 
-Interested in developing new models for living and working collaboratively, imagining post-precarious futures, exploring self-organising systems, and understanding how digital technology can support these practices.
+With his free time he writes poetry, keeps fit, and likes cooking and dancing with his wife in the tiny top floor apartment.
+
+Portfolio [+](https://drive.google.com/file/d/1DjceT4vni005HM5C8PxLWUVzBl6rNBNb/view?usp=sharing)
+CV [+](https://drive.google.com/file/d/1Nl7If-fhy6Nf2Qu1lxjlK4C35e1wBM7i/view?usp=sharing)
