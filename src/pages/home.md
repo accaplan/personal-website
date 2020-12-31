@@ -76,13 +76,11 @@ credits: |
   Last updated: 12.2020
 ---
 
-Designer, craftsmen, artist. Living in Zurich, CH, but originally from Tucson, AZ.
+A designer, architect, craftsmen, and artist. Currently living in Zurich, CH, but originally from Tucson, AZ and Nova Scotia, Canada.
 
-Working across a variety of disciplines and interests (see below). Trained as an architect and urban designer he is currently learning to code and work with regenerative agriculture.
+Working across a variety of disciplines and interests (see below). However, trained professionally as an architect and urban designer he is currently learning to code and work with regenerative agriculture systems.
 
 Interested in developing new models for living and working collaboratively, imagining futures, exploring self-organising building solutions, and understanding how digital technology can support these practices.
-
-With his free time he writes poetry, keeps fit, and likes cooking and dancing with his wife in the tiny top floor apartment.
 
 Portfolio [+](https://drive.google.com/file/d/1DjceT4vni005HM5C8PxLWUVzBl6rNBNb/view?usp=sharing)
 CV [+](https://drive.google.com/file/d/1Nl7If-fhy6Nf2Qu1lxjlK4C35e1wBM7i/view?usp=sharing)
