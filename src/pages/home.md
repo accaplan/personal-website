@@ -56,8 +56,8 @@ workList:
     url: https://www.enough-structures.net
   - text: Superpotent
     url: https://www.superpotent.world
-  - text: Dillydally Outdoor Enthusiasts Club
-    url: https://www.instagram.com/dillydallyrecreation
+  - text: Dawdler's Outdoor Enthusiasts Club
+    url: https://www.instagram.com/dawdlerecreation
   - text: Social Making TV
     url: https://www.youtube.com/channel/UC_l2oumbFugxIo13mNQOfSQ
   - text: The Architect's Directory
