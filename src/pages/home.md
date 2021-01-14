@@ -69,7 +69,7 @@ workList:
 #### Credits #####
 ##################
 credits: |
-  This is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by Piper Haywood. If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). It is set in [Standard Book](https://github.com/brycewilner/Standard) by Bryce Wilner. Your data isn’t collected when using this site.
+  This is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/).
 
   [Subscribe to RSS](https://ashercaplan.com/feed.xml)
 
