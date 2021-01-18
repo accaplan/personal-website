@@ -56,7 +56,7 @@ workList:
     url: https://www.enough-structures.net
   - text: Superpotent
     url: https://www.superpotent.world
-  - text: Dawdler's Outdoor Enthusiasts Club
+  - text: Dawdle Outdoor Enthusiasts Club
     url: https://www.instagram.com/dawdlerecreation
   - text: Social Making TV
     url: https://www.youtube.com/channel/UC_l2oumbFugxIo13mNQOfSQ
@@ -83,4 +83,4 @@ Working across a variety of disciplines and interests (see below). However, trai
 Interested in developing new models for living and working collaboratively, imagining futures, exploring self-organising building solutions, and understanding how digital technology can support these practices.
 
 Portfolio [+](https://drive.google.com/file/d/1DjceT4vni005HM5C8PxLWUVzBl6rNBNb/view?usp=sharing)
-CV [+](https://drive.google.com/file/d/1Nl7If-fhy6Nf2Qu1lxjlK4C35e1wBM7i/view?usp=sharing)
+CV [+](https://drive.google.com/file/d/1G9Nwapqvben7-jk85fntrwZqfEZFiErg/view?usp=sharing)
