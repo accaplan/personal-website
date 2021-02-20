@@ -58,22 +58,21 @@ workList:
     url: https://www.superpotent.world
   - text: Dawdle Outdoor Enthusiasts Club
     url: https://www.instagram.com/dawdlerecreation
-  - text: Social Making TV
-    url: https://www.youtube.com/channel/UC_l2oumbFugxIo13mNQOfSQ
+  - text: How to Make Space
+    url: https://www.howtomake.space
   - text: The Architect's Directory
     url: https://www.are.na/infinite-places/architects-directory
-  - text: Computing Co-Op
+  - text: Computing Coop
     url: https://www.are.na/office-romance/computing-co-op
 
 ##################
 #### Credits #####
 ##################
 credits: |
-  This is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/).
 
   [Subscribe to RSS](https://ashercaplan.com/feed.xml)
 
-  Last updated: 12.2020
+  Last updated: 02.2021
 ---
 
 A designer, architect, craftsmen, and artist. Currently living in Zurich, CH, but originally from Tucson, AZ and Nova Scotia, Canada.
