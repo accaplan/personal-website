@@ -53,9 +53,9 @@ workList:
   - text: Office Romance
     url: https://www.romanceoffice.com/
   - text: Enough Structures
-    url: https://www.enough-structures.net
+    url: https://www.enoughstructures.com
   - text: Superpotent
-    url: https://www.superpotent.world
+    url: https://www.instagram.com/superpotent
   - text: Dawdle Outdoor Enthusiasts Club
     url: https://www.instagram.com/dawdlerecreation
   - text: How to Make Space
