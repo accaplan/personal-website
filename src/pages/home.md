@@ -50,7 +50,7 @@ workList:
     url: http://www.infiniteplaces.org/
   - text: Idle Hours Co.
     url: https://www.idlehours.co/
-  - text: Romance OFfice
+  - text: Romance Office
     url: https://www.romanceoffice.com/
   - text: Enough Structures
     url: https://www.enoughstructures.com
