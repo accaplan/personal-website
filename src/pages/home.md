@@ -20,6 +20,8 @@ sameAs:
     url: https://instagram.com/thatsweetash
   - text: GitHub
     url: https://github.com/accaplan
+    - text: Digital Garden
+    url: https://garden.ashercaplan.com
 
 ##################
 #### Activity ####
