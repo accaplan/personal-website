@@ -21,7 +21,7 @@ The project is a further expansion of my role as an architect and my push for mo
 - Education, Training, and Information
 - Cooperation Among Cooperatives
 - Concern for Community
-- Making as anarchy
+- Making as Leisure
 
 
 
