@@ -83,5 +83,5 @@ Working across a variety of disciplines and interests (see below). However, trai
 
 Interested in developing new models for living and working collaboratively, imagining futures, exploring self-organising building solutions, and understanding how digital technology can support these practices.
 
-Portfolio [+](https://drive.google.com/file/d/1DjceT4vni005HM5C8PxLWUVzBl6rNBNb/view?usp=sharing)
-CV [+](https://drive.google.com/file/d/1G9Nwapqvben7-jk85fntrwZqfEZFiErg/view?usp=sharing)
+[Portfolio](https://drive.google.com/file/d/1DjceT4vni005HM5C8PxLWUVzBl6rNBNb/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1G9Nwapqvben7-jk85fntrwZqfEZFiErg/view?usp=sharing)
